@@ -1,4 +1,4 @@
-# Redes
+# Entrega 01 - Sockets
 
 Primeiro trabalho da disciplina **DCC042 - Redes de Computadores**.
 
